@@ -1,0 +1,12 @@
+.body-div {
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    gap: 8px;
+    padding: 8px;
+}
